@@ -1,0 +1,15 @@
+*.docx
+.api.log
+.api.log*
+.api.log.err
+.claude/
+.pgdata/
+.tools/
+__pycache__/
+backend/.env
+backend/.venv/
+backend/backups/
+backend/uploads/
+frontend/dist/
+frontend/node_modules/
+node_modules/
