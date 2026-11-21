@@ -29,11 +29,17 @@ chi tiết trong [docs/HUONG_DAN_TRIEN_KHAI_TINH_MOI.md](docs/HUONG_DAN_TRIEN_KH
 
 ### Các bước
 
+**Cách A – có Git:**
+
 ```powershell
-git clone <địa-chỉ-repo> DTI
+git clone https://github.com/GPTii/hoa.git
 ```
 
-1. Mở thư mục `DTI` vừa clone, **bấm đúp `start.bat`**.
+**Cách B – không có Git:** trên trang https://github.com/GPTii/hoa bấm nút xanh **Code → Download ZIP**, rồi giải nén
+(chuột phải → *Extract All*). Nên để ở đường dẫn ngắn, không dấu, ví dụ `D:\hoa`.
+
+1. Mở thư mục `hoa` vừa tải về, **bấm đúp `start.bat`**.
+   Nếu Windows hiện cảnh báo *“Windows protected your PC”* → bấm **More info → Run anyway**.
 2. **Lần đầu** (5–15 phút, cần Internet) cửa sổ sẽ tự làm lần lượt:
 
    | Bước | Việc tự động | Ghi chú |
