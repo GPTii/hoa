@@ -38,7 +38,7 @@ git clone https://github.com/GPTii/hoa.git
 **Cách B – không có Git:** trên trang https://github.com/GPTii/hoa bấm nút xanh **Code → Download ZIP**, rồi giải nén
 (chuột phải → *Extract All*). Nên để ở đường dẫn ngắn, không dấu, ví dụ `D:\hoa`.
 
-1. Mở thư mục `hoa` vừa tải về, **bấm đúp `start.bat`**.
+1. Mở thư mục vừa tải về (`hoa`, hoặc `hoa-main` nếu tải ZIP), **bấm đúp `start.bat`**.
    Nếu Windows hiện cảnh báo *“Windows protected your PC”* → bấm **More info → Run anyway**.
 2. **Lần đầu** (5–15 phút, cần Internet) cửa sổ sẽ tự làm lần lượt:
 
